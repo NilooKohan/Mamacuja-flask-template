@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "static",
+			"path": "../../Downloads/web-201-heroku-flask-template-main/static"
+		},
+		{
+			"name": "Mamacuja-flask-template",
+			"path": "."
+		},
+		{
+			"name": "templates",
+			"path": "../../Downloads/web-201-heroku-flask-template-main/templates"
+		}
+	],
+	"settings": {}
+}
